@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.AssemblyInfo.cs
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\zlotemysli.exe
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\zlotemysli.deps.json
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\zlotemysli.runtimeconfig.json
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\zlotemysli.dll
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\zlotemysli.pdb
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.dll
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\zlotemysli.dll
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.pdb
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\zlotemysli.genruntimeconfig.cache
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\zlotemysli.dll
